@@ -1,5 +1,7 @@
 .gradle/
 
+.out/
+
 # idea
 .idea/
 *.iml
