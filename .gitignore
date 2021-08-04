@@ -1,6 +1,6 @@
 .gradle/
 
-#out/
+out/
 
 # idea
 .idea/
